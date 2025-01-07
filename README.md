@@ -18,9 +18,9 @@ We provide the pre-train model, you can download our checkpoint to test. [pre-tr
 
 ## Testing pipelines
 You can synthesize images from the input text.
-    ```
+  ```
         python test.py 
-    ```
+  ```
 ## Results 
 Example results on the CUB and COCO.
 <div align="center">
