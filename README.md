@@ -10,8 +10,8 @@
   
 ## Prepare Datasets
 You can download images and the preprocessed metadata and put them to 'data'.
-- images:the [birds](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) and coco [coco2014](http://cocodataset.org/#download) 
-- the preprocessed metadata:[birds](https://drive.google.com/file/d/1I6ybkR7L64K8hZOraEZDuHh0cCJw5OUj/view?usp=sharing) and [coco](https://drive.google.com/file/d/15Fw-gErCEArOFykW3YTnLKpRcPgI_3AB/view?usp=sharing) 
+- images : the [birds](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) and coco [coco2014](http://cocodataset.org/#download) 
+- the preprocessed metadata : [birds](https://drive.google.com/file/d/1I6ybkR7L64K8hZOraEZDuHh0cCJw5OUj/view?usp=sharing) and [coco](https://drive.google.com/file/d/15Fw-gErCEArOFykW3YTnLKpRcPgI_3AB/view?usp=sharing) 
 
 ## Download pre-train model
 We provide the pre-train model, you can download our checkpoint to test. [pre-train](https://pan.baidu.com/s/1fJJvURofSG6-N5D4IuVK9g).
@@ -24,6 +24,6 @@ You can synthesize images from the input text.
 ## Results 
 Example results on the CUB and COCO.
 <div align="center">
-  <img src="">
+  <img src="https://github.com/zxcnmmmmm/SDeep/blob/main/github-domo.jpg">
 </div>
 
