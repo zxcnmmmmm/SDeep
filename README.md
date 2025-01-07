@@ -24,6 +24,6 @@ You can synthesize images from the input text.
 ## Results 
 Example results on the CUB and COCO.
 <div align="center">
-  <img src="https://github.com/zxcnmmmmm/SDeep/blob/main/github-domo.jpg">
+  <img src=https://github.com/zxcnmmmmm/SDeep/blob/main/github-domo.jpg>
 </div>
 
