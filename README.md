@@ -1,4 +1,4 @@
-# SDeep 
+![image](https://github.com/user-attachments/assets/a9ef5dcf-dc16-494c-b016-fdda9ea821b4)# SDeep 
 ## Requirements and Dependencies
 - python 3.9
 - torch 
@@ -21,6 +21,11 @@ You can synthesize images from the input text.
   ```
         python test.py 
   ```
+## Training
+  ```
+        python train.py  --cfg cfg/coco.yml
+  ```
+
 ## Results 
 Example results on the CUB and COCO.
 <div align="center">
