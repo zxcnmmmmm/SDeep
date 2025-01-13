@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a9ef5dcf-dc16-494c-b016-fdda9ea821b4)# SDeep 
+# SDeep 
 ## Requirements and Dependencies
 - python 3.9
 - torch 
