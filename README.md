@@ -43,17 +43,19 @@ Specify the ```path``` to the checkpoint in test.py. Then, you can synthesize im
 Results are saved to ```./samples``` 
 
 ## Training
-
-- CUB dataset 
+Train SDeep models. ```*.yml``` files are example configuration files for training/evaluation our models.
+- Train for CUB.
   ```
        cd SDeep/code
        bash src/train.sh ./cfg/bird.yml
   ```
-- COCO dataset
+- Train for COCO.
   ```
        cd SDeep/code
-       bash src/train.sh ./cfg/bird.yml
+       bash src/train.sh ./cfg/coco.yml
   ```
+- Resume training process
+If your training process is interrupted unexpectedly, set ```resume_epoch``` and ```resume_model_path``` in train.sh to resume training.
 
 ## Results 
 Example results on the CUB and COCO.
