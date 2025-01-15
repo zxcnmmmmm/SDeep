@@ -16,14 +16,13 @@
 
   
 ## Prepare Datasets
-- CUB dataset
-You can download [bird images](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) and put them to 'data/birds/'.
+- CUB dataset< br >
+You can download [bird images](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) and put them to 'data/birds/'.< br >
+You can download the preprocessed metadata for [birds](https://drive.google.com/file/d/1I6ybkR7L64K8hZOraEZDuHh0cCJw5OUj/view?usp=sharing) and extract them to 'data/'< br >
 
-You can download the preprocessed metadata for [birds](https://drive.google.com/file/d/1I6ybkR7L64K8hZOraEZDuHh0cCJw5OUj/view?usp=sharing) and extract them to 'data/'
-
-- COCO dataset
-You can download [coco images](http://cocodataset.org/#download) and put them to 'data/coco/images/'.
-You can download the preprocessed metadata for [coco](https://drive.google.com/file/d/15Fw-gErCEArOFykW3YTnLKpRcPgI_3AB/view?usp=sharing) and extract them to 'data/'
+- COCO dataset< br >
+You can download [coco images](http://cocodataset.org/#download) and put them to 'data/coco/images/'.< br >
+You can download the preprocessed metadata for [coco](https://drive.google.com/file/d/15Fw-gErCEArOFykW3YTnLKpRcPgI_3AB/view?usp=sharing) and extract them to 'data/'< br >
 
 ## Download pre-train model
 We provide the pre-train model, you can download our checkpoint to test. [pre-train](https://pan.baidu.com/s/1fJJvURofSG6-N5D4IuVK9g).
