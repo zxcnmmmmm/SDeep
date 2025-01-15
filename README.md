@@ -44,8 +44,8 @@ You can download the preprocessed metadata for [coco](https://drive.google.com/f
 
 ## Download pretrained models
 ### We provide the pretained models, you can download our checkpoints to test.  
-- The pretained model for [bird](https://pan.baidu.com/s/1fJJvURofSG6-N5D4IuVK9g). Download and save it to  ```./code/saved_models/bird/```  
-- The pretained model for [coco](https://pan.baidu.com/s/1fJJvURofSG6-N5D4IuVK9g). Download and save it to  ```./code/saved_models/coco/```  
+- The pretained model for [bird](https://pan.baidu.com/s/1Y7f1zhIGoSo_rit_UlTG5A).Password (1008) Download and save it to  ```./code/saved_models/bird/```  
+- The pretained model for [coco](https://pan.baidu.com/s/1ZIENt5lXycrSaFKNyz-9qw).Password (wm4i) Download and save it to  ```./code/saved_models/coco/```  
 
 ## Testing pipelines
 ###  You can synthesize images from the input text.  
