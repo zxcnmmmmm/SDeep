@@ -10,8 +10,7 @@ Title: "Stacked Deep Fusion GAN for Enhanced Text-to-Image Generation"
   <img src=https://github.com/zxcnmmmmm/SDeep/blob/main/Framework.jpg>
 </div>  
   
-- A novel GAN designed for text-guided image generation
-It features a lightweight model capable of fast inference.
+- A novel GAN designed for text-guided image generation. It is a lightweight model capable of fast inference.
 
 ## Main requirements
 - python 3.9
