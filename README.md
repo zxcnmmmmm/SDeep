@@ -83,7 +83,6 @@ If you find SDeep useful in your research, please consider citing:
   @article{ccc2025SDeep,
      author = {Wenli Chen, Yaqi Sun, Paul L. Rosin, YuKun Lai},
      title = {Stacked Deep Fusion GAN for Enhanced Text-to-Image Generation},
-     Year = {2025},
      journal = {{The Visual Computer}}
   }
   ```
