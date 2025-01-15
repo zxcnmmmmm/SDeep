@@ -25,7 +25,7 @@ You can download [coco images](http://cocodataset.org/#download) and put them to
 You can download the preprocessed metadata for [coco](https://drive.google.com/file/d/15Fw-gErCEArOFykW3YTnLKpRcPgI_3AB/view?usp=sharing) and extract them to ```data/```    
 
 ## Download pretrained model
-We provide the pre-train model, you can download our checkpoint to test.  
+We provide the pretained model, you can download our checkpoints to test.  
 - The pretained model for [bird](https://pan.baidu.com/s/1fJJvURofSG6-N5D4IuVK9g). Download and save it to  ```./code/saved_models/bird/```  
 - The pretained model for [coco](https://pan.baidu.com/s/1fJJvURofSG6-N5D4IuVK9g). Download and save it to  ```./code/saved_models/coco/```  
 
