@@ -26,7 +26,7 @@ You can download the preprocessed metadata for [coco](https://drive.google.com/f
 
 ## Download pretrained model
 We provide the pre-train model, you can download our checkpoint to test.  
-- The pretained model for [CUB](https://pan.baidu.com/s/1fJJvURofSG6-N5D4IuVK9g).Download and save it to ./code/saved_models/bird/
+- The pretained model for [CUB](https://pan.baidu.com/s/1fJJvURofSG6-N5D4IuVK9g).Download and save it to  ```./code/saved_models/bird/```  
 - The pretained model for [coco](https://pan.baidu.com/s/1fJJvURofSG6-N5D4IuVK9g).
 
 ## Testing pipelines
