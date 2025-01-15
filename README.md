@@ -54,7 +54,7 @@ Train SDeep models. ```*.yml``` files are example configuration files for traini
        cd SDeep/code
        bash src/train.sh ./cfg/coco.yml
   ```
-- Resume training process
+- Resume training process  
 If your training process is interrupted unexpectedly, set ```resume_epoch``` and ```resume_model_path``` in train.sh to resume training.
 
 ## Results 
