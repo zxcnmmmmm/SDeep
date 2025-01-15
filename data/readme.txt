@@ -1,1 +1,1 @@
-data
+Download the preprocessed metadata and image data.
