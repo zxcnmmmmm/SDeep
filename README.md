@@ -35,12 +35,13 @@ You can download the preprocessed metadata for [coco](https://drive.google.com/f
 - The pretained model for [coco](https://pan.baidu.com/s/1fJJvURofSG6-N5D4IuVK9g). Download and save it to  ```./code/saved_models/coco/```  
 
 ## Testing pipelines
-### Specify the ```path``` to the checkpoint in test.py. Then, you can synthesize images from the input text. 
+###  You can synthesize images from the input text.  
+Specify the ```path``` to the checkpoint in test.py. Results are saved to ```./samples``` 
   ```
        cd SDeep/code/src/
        python test.py 
   ```
-Results are saved to ```./samples``` 
+
 
 ## Training
 ### Train SDeep models.  
