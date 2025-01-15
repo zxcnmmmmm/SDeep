@@ -76,3 +76,4 @@ If you find SDeep useful in your research, please consider citing:
   ```
 ## Reference
 - [GALIP: Generative Adversarial CLIPs for Text-to-Image Synthesis](https://arxiv.org/abs/2301.12959)
+- [DF-GAN:  DF-GAN: A Simple and Effective Baseline for Text-to-Image Synthesis](https://arxiv.org/abs/2008.05865) [[code]](https://github.com/tobran/DF-GAN.git)
