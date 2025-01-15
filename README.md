@@ -9,11 +9,11 @@
 - At least 1x12GB NVIDIA GPU
 
 ## Installation
-Clone this repo.
   ```
-        git clone https://github.com/zxcnmmmmm/SDeep.git
+        pip install -r requirements.txt
         cd SDeep/code/
   ```
+
   
 ## Prepare Datasets
 You can download images and the preprocessed metadata and put them to 'data'.
@@ -26,11 +26,13 @@ We provide the pre-train model, you can download our checkpoint to test. [pre-tr
 ## Testing pipelines
 You can synthesize images from the input text.
   ```
+        cd src
         python test.py 
   ```
 ## Training
   ```
-        python train.py  --cfg cfg/coco.yml
+        cd src
+        python train.py 
   ```
 
 ## Results 
