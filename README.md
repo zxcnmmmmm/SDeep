@@ -8,11 +8,12 @@
 - scikit-image
 - At least 1x12GB NVIDIA GPU
 
-## Installation
+## Install
+ - Dependencies.
   ```
         pip install -r requirements.txt
-        cd SDeep/code/
   ```
+- Install [CLIP](https://github.com/openai/CLIP)
 
   
 ## Prepare Datasets
