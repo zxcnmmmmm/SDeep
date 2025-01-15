@@ -30,7 +30,7 @@ We provide the pretained model, you can download our checkpoints to test.
 - The pretained model for [coco](https://pan.baidu.com/s/1fJJvURofSG6-N5D4IuVK9g). Download and save it to  ```./code/saved_models/coco/```  
 
 ## Testing pipelines
-In test.py, specify the path to the checkpoint using the path argument. Then, you can synthesize images from the input text.
+In test.py, specify the ```path``` to the checkpoint. Then, you can synthesize images from the input text. The results saved in ```./samples``` 
   ```
         cd src
         python test.py 
