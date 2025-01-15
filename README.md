@@ -68,7 +68,7 @@ Specify the ```path``` to the checkpoint in test.py. Results are saved to ```./c
        cd SDeep/code
        bash src/train.sh ./cfg/coco.yml
   ```
-### Resume training process  
+### Resume training process.  
 If your training process is interrupted unexpectedly, set ```state_epoch``` and ```pretrained_model_path``` in train.sh to resume training.
 
 ## Results 
