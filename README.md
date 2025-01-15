@@ -15,7 +15,7 @@
        pip install -r requirements.txt
   ```
 - Download and install [CLIP](https://github.com/openai/CLIP).
-  ```
+```
        cd CLIP-main
        python3 setup.py build install
   ```
