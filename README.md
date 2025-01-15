@@ -7,6 +7,13 @@
 - nltk
 - scikit-image
 - At least 1x12GB NVIDIA GPU
+
+## Installation
+Clone this repo.
+  ```
+        git clone https://github.com/zxcnmmmmm/SDeep.git
+        cd SDeep/code/
+  ```
   
 ## Prepare Datasets
 You can download images and the preprocessed metadata and put them to 'data'.
