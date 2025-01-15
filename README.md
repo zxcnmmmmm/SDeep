@@ -43,7 +43,8 @@ You can download the preprocessed metadata for [coco](https://drive.google.com/f
 Results are saved to ```./samples``` 
 
 ## Training
-### Train SDeep models. ```*.yml``` files are example configuration files for training/evaluation our models.
+### Train SDeep models.  
+```*.yml``` files are example configuration files for training/evaluation our models.
 - Train for CUB.
   ```
        cd SDeep/code
