@@ -48,7 +48,7 @@ Specify the ```path``` to the checkpoint in test.py. Results are saved to ```./c
 - Train for CUB.
   ```
        cd SDeep/code
-       bash src/train.sh ./cfg/bird.yml
+       bash src/train.sh ./cfg/birds.yml
   ```
 - Train for COCO.
   ```
