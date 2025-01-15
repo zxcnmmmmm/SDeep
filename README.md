@@ -11,9 +11,13 @@
 ## Install
  - Dependencies.
   ```
-        pip install -r requirements.txt
+       pip install -r requirements.txt
   ```
-- Install [CLIP](https://github.com/openai/CLIP)
+- Download and install [CLIP](https://github.com/openai/CLIP).
+  ```
+       cd CLIP-main
+       python3 setup.py build install
+  ```
 
   
 ## Prepare Datasets
@@ -33,14 +37,14 @@ We provide the pretained model, you can download our checkpoints to test.
 ## Testing pipelines
 Specify the ```path``` to the checkpoint in test.py. Then, you can synthesize images from the input text. The results saved in ```./samples``` 
   ```
-        cd src
-        python test.py 
+       cd src
+       python test.py 
   ```
 ## Training
 
   ```
-        cd src
-        python train.py 
+       cd src
+       python train.py 
   ```
 
 ## Results 
