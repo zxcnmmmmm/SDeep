@@ -1,5 +1,5 @@
 # SDeep 
-## Requirements and Dependencies
+## Main requirements
 - python 3.9
 - torch 
 - torchvision
@@ -42,7 +42,6 @@ Specify the ```path``` to the checkpoint in test.py. Results are saved to ```./c
        python test.py 
   ```
 
-
 ## Training
 ### Train SDeep models.  
 ```*.yml``` files are example configuration files for training our models.
@@ -72,7 +71,7 @@ If you find SDeep useful in your research, please consider citing:
      author = {Wenli Chen, Yaqi Sun, Paul L. Rosin, YuKun Lai},
      title = {Stacked Deep Fusion GAN for Enhanced Text-to-Image Generation},
      Year = {2025},
-     booktitle = {{The Visual Computer}}
+     journal = {{The Visual Computer}}
   }
   ```
 ## Reference
