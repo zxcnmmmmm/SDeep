@@ -1,17 +1,17 @@
 # SDeep - Pytorch
 
 ## Introduction
+  
 This project page provides pytorch code that implements the following paper:  
+  
 Title: "Stacked Deep Fusion GAN for Enhanced Text-to-Image Generation"  
+  
 <div align="center">
   <img src=https://github.com/zxcnmmmmm/SDeep/blob/main/Framework.jpg>
 </div>  
   
-It is a novel GAN designed for text-guided image generation, featuring a lightweight model capable of fast inference.  
-
-This method incorporates MLCA Attention into the generator of the GAN architecture, ensuring that the generated images are highly consistent with the text descriptions in both global and local details.
-
-By enhancing the fusion process of image and text features, the method further improves the consistency of the generated images with the text descriptions in both global and local details.
+- A novel GAN designed for text-guided image generation
+It features a lightweight model capable of fast inference.
 
 ## Main requirements
 - python 3.9
