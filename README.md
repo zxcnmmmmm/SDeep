@@ -17,10 +17,12 @@
   
 ## Prepare Datasets
 - CUB dataset
-You can download images[birds](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) and put them to 'data/birds/'.
+You can download [bird images](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) and put them to 'data/birds/'.
+
 You can download the preprocessed metadata for [birds](https://drive.google.com/file/d/1I6ybkR7L64K8hZOraEZDuHh0cCJw5OUj/view?usp=sharing) and extract them to 'data/'
+
 - COCO dataset
-You can download images[coco2014](http://cocodataset.org/#download) and put them to 'data/coco/images/'
+You can download [coco images](http://cocodataset.org/#download) and put them to 'data/coco/images/'.
 You can download the preprocessed metadata for [coco](https://drive.google.com/file/d/15Fw-gErCEArOFykW3YTnLKpRcPgI_3AB/view?usp=sharing) and extract them to 'data/'
 
 ## Download pre-train model
