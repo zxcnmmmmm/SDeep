@@ -24,12 +24,13 @@ You can download images and the preprocessed metadata and put them to 'data'.
 We provide the pre-train model, you can download our checkpoint to test. [pre-train](https://pan.baidu.com/s/1fJJvURofSG6-N5D4IuVK9g).
 
 ## Testing pipelines
-You can synthesize images from the input text.
+In test.py, specify the path to the checkpoint using the path argument. Then, you can synthesize images from the input text.
   ```
         cd src
         python test.py 
   ```
 ## Training
+
   ```
         cd src
         python train.py 
