@@ -8,9 +8,10 @@
 - scikit-image
 - At least 1x12GB NVIDIA GPU
 
-## Install
- - Dependencies.
+## Installation
+ - Clone this repo and install dependencies.
   ```
+       git clone https://github.com/zxcnmmmmm/SDeep
        pip install -r requirements.txt
   ```
 - Download and install [CLIP](https://github.com/openai/CLIP).
@@ -18,7 +19,6 @@
        cd CLIP-main
        python3 setup.py build install
   ```
-
   
 ## Prepare Datasets
 - CUB dataset  
